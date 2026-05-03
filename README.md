@@ -30,13 +30,13 @@ Exported cleaned data into MySQL tables using:
 df.to_sql(name='table_name', con=engine, if_exists='replace', index=False)
 
 # Purpose of the Project
-Store cleaned data in a structured database
-Enable SQL-based data analysis
-Prepare data for integration with BI tools
+1. Store cleaned data in a structured database
+2. Enable SQL-based data analysis
+3. Prepare data for integration with BI tools
 
 # Key Features
-Automated data cleaning pipeline
-Seamless integration with MySQL
-Efficient data storage for large datasets
-Ready for visualization tools like Power BI / Tableau
+1. Automated data cleaning pipeline
+2. Seamless integration with MySQL
+3. Efficient data storage for large datasets
+4. Ready for visualization tools like Power BI / Tableau
 
