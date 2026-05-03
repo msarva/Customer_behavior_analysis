@@ -5,10 +5,10 @@ This project demonstrates how to clean, process, and export data using Python in
 It simulates a real-world data engineering workflow where raw data is transformed and stored in a structured format for downstream use.
 
 # Tech Stack: 
-Python
-Pandas
-MySQL
-SQLAlchemy
+Python, 
+Pandas,
+MySQL,
+SQLAlchemy,
 mysql-connector-python
 
 # Project Workflow
